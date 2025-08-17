@@ -1,36 +1,7 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0px;
-  background-color: #f4f4f4;
+#customnav { 
+    background-color: darkolivegreen !important; 
 }
 
-header {
-  background-color: #37623c;
-  color: white;
-  padding: 10px;
-  position:fixed
-  top: 0;
-  width: 100%;}
-
-nav a {
-  color: white;
-  margin-right: 15px;
-  text-decoration: none;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
-footer {
-  background-color: #37623c;
-  color: white;
-  padding: 10px;
-      position: fixed;
-      bottom:0;
-      width:100%  }
-
-p {
-  margin: 20px;
-  
+main {
+    padding: 70px 20px 20px;
 }
